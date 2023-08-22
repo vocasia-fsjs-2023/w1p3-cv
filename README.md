@@ -1,4 +1,4 @@
-  # w1p3-cv
+  # w2p3-cv
 
 ## Problem 3
   - Buatlah curricullum vitae hanya menggunakan html.
