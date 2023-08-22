@@ -10,3 +10,4 @@
       - Work Experience
       - Pendidikan
       - Award/Certification/other (Optional)
+  - Kerjakan pada index.html yang telah disediakan
